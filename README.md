@@ -1,2 +1,2 @@
 # Blockchain2
-Vote System in Ethereum Sepolia Testnet
+Code of a vote System in Ethereum Remix for Ethereum Sepolia Testnet
